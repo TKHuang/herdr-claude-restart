@@ -1,0 +1,6 @@
+{
+  "name": "herdr-claude-restart",
+  "owner": { "name": "TKHuang" },
+  "description": "Claude Code mod: /restart relaunches the session inside the same herdr pane.",
+  "plugins": [{ "name": "herdr-claude-restart", "source": "./" }]
+}
