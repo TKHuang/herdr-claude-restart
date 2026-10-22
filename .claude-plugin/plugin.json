@@ -1,6 +1,6 @@
 {
   "name": "herdr-claude-restart",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "/restart exits Claude Code and relaunches it on the same session inside the same herdr pane.",
   "license": "MIT",
   "author": { "name": "TKHuang" }
